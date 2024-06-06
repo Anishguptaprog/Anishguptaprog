@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working at **HCLTech as Technical Lead**
 
-- 🌱 I’m currently learning **GoLang, Google Cloud Platform**
+- 🌱 I’m currently learning **GoLang, Google Cloud Platform, NextJS**
 
 - 👨‍💻 All of my projects are available at [https://anishgupta21-portfolio.netlify.app/](https://anishgupta21-portfolio.netlify.app/)
 
-- 💬 Ask me about **React, C++, Python**
+- 💬 Ask me about **ReactJS, C++, Python, NextJS**
 
 - 📫 How to reach me **anishajaygupta21@gmail.com**
 
