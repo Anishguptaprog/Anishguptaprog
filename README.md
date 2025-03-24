@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **anishajaygupta21@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1U_Jkp81hgg9YkiY3BZStVdzPA1Z0Iwa8/view?usp=sharing](https://drive.google.com/file/d/1JsXuxX-eO1pDbh40Xpy6HMpnxmWh6O37/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://anishguptaprog.github.io/resume/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
