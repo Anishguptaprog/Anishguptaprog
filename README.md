@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishguptaprog&label=Profile%20views&color=0e75b6&style=flat" alt="anishguptaprog" /> </p>
 
-- 🔭 I’m currently working at **HCLTech as Technical Lead**
+- 🔭 I’m currently working at **Recruiterflow as a Software Engineer**
 
 - 🌱 I’m currently learning **GoLang, Google Cloud Platform, NextJS**
 
